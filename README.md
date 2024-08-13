@@ -6,7 +6,7 @@ Meu nome é Nathália Casimiro
 - Estou me desenvolvendo em JavaScript
 - Utilizo esse espaço para a organização e compartilhamento dos meu projetos desenvolvidos
 
-  ### Você pode entrar em contato comigo 📪
+  ### Você pode entrar em contato comigo por este email 📪
 
 0001118569945SP@al.educacao.sp.gov.br
 
