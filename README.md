@@ -2,7 +2,7 @@
 
 Meu nome é Nathália Casimiro
 
-- Faço curso na [Alura](https://www.alura.com.br)
+- Estudo na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo em JavaScript
 - Utilizo esse espaço para a organização e compartilhamento dos meus projetos desenvolvidos
 
